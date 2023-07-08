@@ -1,9 +1,7 @@
-# Getting Started with Create React App
-
 ![light](https://github.com/beytullahdanis/light-dark-mode/assets/108797171/52309080-ebaa-4c39-b8ec-a4cee224f087)
 ![dark](https://github.com/beytullahdanis/light-dark-mode/assets/108797171/42f52bff-4bb5-467c-945e-7c62423e5a74)
 
-
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
